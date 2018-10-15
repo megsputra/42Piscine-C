@@ -1,3 +1,3 @@
 # 42Piscine-C
 
-![Alt text](/Users/megaputra/Desktop/p1.png?raw=true "results_page1")
+![Alt text](https://imgur.com/a/k1cCmmi)
