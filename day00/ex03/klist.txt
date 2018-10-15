@@ -1,0 +1,6 @@
+Credentials cache: API:38618
+        Principal: mputra@42.US.ORG
+
+  Issued                Expires               Principal
+Aug 21 10:25:01 2018  Aug 21 20:25:01 2018  krbtgt/42.US.ORG@42.US.ORG
+Aug 21 10:25:08 2018  Aug 21 20:25:01 2018  ldap/ldap-master.42.us.org@42.US.ORG

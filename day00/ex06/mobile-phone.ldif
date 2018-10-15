@@ -1,0 +1,7 @@
+# script to add my phone number to LDAP
+
+dn: uid=mputra,ou=august,ou=2018,ou=people,dc=42,dc=us,dc=org
+changetype: modify
+replace: mobile
+mobile:+16073792155
+

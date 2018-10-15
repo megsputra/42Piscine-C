@@ -1,0 +1,5 @@
+#!/bin/bash
+# show files and dirs in current dir separated by comma, by order of creation date, 
+# dir names followed by slash char
+
+ls -trmp
